@@ -1,4 +1,4 @@
 google-font-api
 ===============
 
-example code using the Google font API
+This repo contains example code using the Google font API.
